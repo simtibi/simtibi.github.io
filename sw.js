@@ -14,8 +14,8 @@ workbox.precaching.precacheAndRoute([
     "revision": "97b32431f8523e0e139871ffbd3e6d59"
   },
   {
-    "url": "/_nuxt/725bba4d2bd3f18e9db0.js",
-    "revision": "5121f29cab923707d4ca82e20af310e9"
+    "url": "/_nuxt/a528c399f6da06c1de29.js",
+    "revision": "c916991cca50b8c2b9f5f12834d8d9e0"
   }
 ], {
   "cacheId": "simtibi.github.io",
