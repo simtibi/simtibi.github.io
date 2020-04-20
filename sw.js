@@ -2,20 +2,20 @@ importScripts('/_nuxt/workbox.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/_nuxt/0548eefdb0006b28845b.js",
-    "revision": "8b830c99d7addb484f766a7e6989a42f"
+    "url": "/_nuxt/01a860d788aeac7e9d60.js",
+    "revision": "348a5242207105c26ed7c02d1f7bfd03"
   },
   {
     "url": "/_nuxt/58559082aa4266c5f3ad.js",
     "revision": "97b32431f8523e0e139871ffbd3e6d59"
   },
   {
-    "url": "/_nuxt/9275df7f90cd29a7bc71.js",
-    "revision": "8a875f1d5f2a0ac6a494e22064c13834"
+    "url": "/_nuxt/67f4b497c0c105b84e9f.js",
+    "revision": "aa723652ce49700d1029c49c0ae2a10a"
   },
   {
-    "url": "/_nuxt/961d177b4f9aeedca73c.js",
-    "revision": "bc6e8b62806c06b438debc2970a4912a"
+    "url": "/_nuxt/c7a2de7bb205c81224c3.js",
+    "revision": "8824050e4763abbdccc9369648e20ca4"
   }
 ], {
   "cacheId": "simtibi.github.io",
