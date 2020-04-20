@@ -1,0 +1,75 @@
+
+@font-face {
+  font-family: 'Gilroy Bold';
+  src: url('~assets/font/gilroy-bold-webfont.ttf') format('truetype') /* Safari, Android, iOS */
+}
+
+html,
+body {
+	-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+}
+
+.main-page {
+  // padding: 50px;
+  height: 100vh;
+  background: #1C1A20;
+}
+
+.bold {
+  font-family: 'Gilroy Bold';
+}
+.white {
+  color: #fff;
+}
+
+
+.textleft{text-align: left;}
+.textright{text-align: right;}
+.textcenter{text-align: center;}
+
+.mb0{margin-bottom: 0px;}
+.mb4{margin-bottom: 4px;}
+.mb8{margin-bottom: 8px;}
+.mb10{margin-bottom: 10px;}
+.mb12{margin-bottom: 12px;}
+.mb13{margin-bottom: 13px;}
+.mb14{margin-bottom: 14px;}
+.mb16{margin-bottom: 16px;}
+.mb18{margin-bottom: 18px;}
+.mb20{margin-bottom: 20px;}
+.mb23{margin-bottom: 23px;}
+.mb24{margin-bottom: 24px;}
+.mb26{margin-bottom: 26px;}
+.mb28{margin-bottom: 28px;}
+.mb32{margin-bottom: 32px;}
+.mb36{margin-bottom: 36px;}
+.mb38{margin-bottom: 38px;}
+.mb40{margin-bottom: 40px;}
+.mb42{margin-bottom: 42px;}
+.mb46{margin-bottom: 46px;}
+.mb48{margin-bottom: 48px;}
+.mb50{margin-bottom: 50px;}
+.mb52{margin-bottom: 52px;}
+.mb56{margin-bottom: 56px;}
+.mb60{margin-bottom: 60px;}
+.mb64{margin-bottom: 64px;}
+.mb70{margin-bottom: 70px;}
+.mb80{margin-bottom: 80px;}
+.mb90{margin-bottom: 90px;}
+.mb110{margin-bottom: 110px;}
+.mb136{margin-bottom: 136px;}
+.mb145{margin-bottom: 145px;}
+
+.mr8 {
+  margin-right: 8px;
+}
+
+.fs20 {
+  font-size: 20px;
+}
+
+.lh1 {
+  line-height: 1.2;
+}
