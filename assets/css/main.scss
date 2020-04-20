@@ -14,7 +14,6 @@ body {
 .main-page {
   // padding: 50px;
   height: 100vh;
-  background: #1C1A20;
 }
 
 .bold {
@@ -24,6 +23,9 @@ body {
   color: #fff;
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
 
 .textleft{text-align: left;}
 .textright{text-align: right;}
@@ -69,7 +71,14 @@ body {
 .fs20 {
   font-size: 20px;
 }
+.fs36 {
+  font-size: 36px;
+}
 
 .lh1 {
   line-height: 1.2;
+}
+
+.relative {
+  position: relative;
 }

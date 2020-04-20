@@ -89,10 +89,11 @@ export default {
   svg{
     polygon,
     path {
-      transition: stroke-dashoffset 3s ease-in-out, fill-opacity 700ms ease-in-out 3s, stroke-width 700ms ease-in-out 3s;
+      transition: stroke-dashoffset 3s ease-in-out, fill-opacity 700ms ease-in-out 3s, stroke 700ms ease-in-out 3s;
       fill-opacity: 0;
       stroke-dasharray: 700;
       stroke-dashoffset: 700;
+      stroke-linecap: square;
       &:not(.no-stroke) {
         transform: translate(2px, 2px);
         stroke-width: 4px;
@@ -106,7 +107,9 @@ export default {
       path {
         stroke-dashoffset: 0;
         fill-opacity: 1;
-        stroke-width: 0px;
+        &:not(.no-stroke) {
+          stroke: #1C1A20;
+        }
       }
     }
   }
