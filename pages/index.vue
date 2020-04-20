@@ -65,6 +65,7 @@ export default {
     }
   }
   .main-page {
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -85,7 +86,7 @@ export default {
   }
   @media screen and (max-width: 800px) {
     .main-page {
-      padding: 0 50px;
+      padding: 20px 50px 90px;
     }
     div.mb145 {
       margin-bottom: 110px;
@@ -93,7 +94,7 @@ export default {
   }
   @media screen and (max-width: 610px) {
     .main-page {
-      padding: 0 20px;
+      padding: 20px 20px 90px;
     }
   }
   @media screen and (max-width: 420px) {
