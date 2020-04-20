@@ -17,7 +17,8 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
       { hid: 'og:title', property: 'og:title', content: 'Simon Tibor - Frontend Developer' },
-      { hid: 'og:site_name', property: 'og:title', content: 'Simon Tibor - Frontend Developer' },
+      { hid: 'og:description', property: 'og:description', content: 'Simon Tibor - Frontend Developer' },
+      { hid: 'og:site_name', property: 'og:site_name', content: 'Simon Tibor - Frontend Developer' },
       { hid: 'og:image', property: 'og:image', content: 'https://simontibor.online/og-image.png' },
     ],
     link: [
